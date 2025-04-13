@@ -1,2 +1,3 @@
 include domains.txt
 include patterns.txt
+include hints.txt
