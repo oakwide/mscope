@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: mscope
+Version: 0.1
+Summary: mscope allows you to find emails by username
+Author: oakwide
+Classifier: Programming Language :: Python
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Requires-Dist: requests
+Requires-Dist: dnspython
+Dynamic: author
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: summary
